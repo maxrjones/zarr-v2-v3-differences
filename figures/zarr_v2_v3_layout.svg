@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 720 570"
+     width="720" height="570">
+  <rect width="100%" height="100%" fill="white"/>
+<text x="120.0" y="24" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#5F6368" text-anchor="middle">Zarr V2</text>
+<text x="360.0" y="24" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#5F6368" text-anchor="middle">Zarr V3</text>
+<text x="600.0" y="24" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#5F6368" text-anchor="middle">Zarr V3 + Sharding</text>
+<line x1="10.0" y1="34" x2="710.0" y2="34" stroke="#5F6368" stroke-width="0.5" opacity="0.4"/>
+<g><path d="M80.0,57 L80.0,84 L160.0,84 L160.0,57 L112.0,57 L108.0,50 L80.0,50 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="120.0" y="74.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">Root</text></g>
+<g><path d="M12.0,106 L76.0,106 L84.0,114 L84.0,144 L12.0,144 Z" fill="#FFF9E6" stroke="#5F6368" stroke-width="0.6"/><path d="M76.0,106 L76.0,114 L84.0,114 Z" fill="#5F6368" opacity="0.2"/><text x="48.0" y="129.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zmetadata</text></g>
+<g><path d="M12.0,150 L76.0,150 L84.0,158 L84.0,188 L12.0,188 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M76.0,150 L76.0,158 L84.0,158 Z" fill="#5F6368" opacity="0.2"/><text x="48.0" y="173.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zgroup</text></g>
+<g><path d="M12.0,194 L76.0,194 L84.0,202 L84.0,232 L12.0,232 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M76.0,194 L76.0,202 L84.0,202 Z" fill="#5F6368" opacity="0.2"/><text x="48.0" y="217.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zattrs</text></g>
+<g><path d="M96.0,113 L96.0,140 L176.0,140 L176.0,113 L128.0,113 L124.0,106 L96.0,106 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="136.0" y="130.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">lat</text></g>
+<g><path d="M96.0,153 L96.0,180 L176.0,180 L176.0,153 L128.0,153 L124.0,146 L96.0,146 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="136.0" y="170.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">lon</text></g>
+<g><path d="M96.0,193 L96.0,220 L176.0,220 L176.0,193 L128.0,193 L124.0,186 L96.0,186 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="136.0" y="210.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">time</text></g>
+<g><path d="M96.0,233 L96.0,260 L176.0,260 L176.0,233 L128.0,233 L124.0,226 L96.0,226 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="136.0" y="250.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">temperature</text></g>
+<g><path d="M96.0,273 L96.0,300 L176.0,300 L176.0,273 L128.0,273 L124.0,266 L96.0,266 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="136.0" y="290.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">precipitation</text></g>
+<line x1="120.0" y1="84" x2="120.0" y2="95.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="48.0" y1="95.0" x2="136.0" y2="95.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="48.0" y1="95.0" x2="48.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="48.0" y1="95.0" x2="48.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="48.0" y1="95.0" x2="48.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="136.0" y1="95.0" x2="136.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="136.0" y1="95.0" x2="136.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="136.0" y1="95.0" x2="136.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="136.0" y1="95.0" x2="136.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="136.0" y1="95.0" x2="136.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M186.0,162 L250.0,162 L258.0,170 L258.0,200 L186.0,200 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,162 L250.0,170 L258.0,170 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="185.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zarray</text></g>
+<g><path d="M186.0,206 L250.0,206 L258.0,214 L258.0,244 L186.0,244 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,206 L250.0,214 L258.0,214 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="229.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zattrs</text></g>
+<g><path d="M186.0,250 L250.0,250 L258.0,258 L258.0,288 L186.0,288 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,250 L250.0,258 L258.0,258 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="273.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">0</text></g>
+<line x1="136.0" y1="140" x2="136.0" y2="151.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="151.0" x2="222.0" y2="151.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="151.0" x2="222.0" y2="162" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="151.0" x2="222.0" y2="162" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="151.0" x2="222.0" y2="162" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M186.0,202 L250.0,202 L258.0,210 L258.0,240 L186.0,240 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,202 L250.0,210 L258.0,210 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="225.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zarray</text></g>
+<g><path d="M186.0,246 L250.0,246 L258.0,254 L258.0,284 L186.0,284 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,246 L250.0,254 L258.0,254 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="269.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zattrs</text></g>
+<g><path d="M186.0,290 L250.0,290 L258.0,298 L258.0,328 L186.0,328 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,290 L250.0,298 L258.0,298 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="313.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">0</text></g>
+<line x1="136.0" y1="180" x2="136.0" y2="191.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="191.0" x2="222.0" y2="191.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="191.0" x2="222.0" y2="202" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="191.0" x2="222.0" y2="202" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="191.0" x2="222.0" y2="202" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M186.0,242 L250.0,242 L258.0,250 L258.0,280 L186.0,280 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,242 L250.0,250 L258.0,250 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="265.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zarray</text></g>
+<g><path d="M186.0,286 L250.0,286 L258.0,294 L258.0,324 L186.0,324 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,286 L250.0,294 L258.0,294 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="309.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zattrs</text></g>
+<g><path d="M186.0,330 L250.0,330 L258.0,338 L258.0,368 L186.0,368 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,330 L250.0,338 L258.0,338 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="353.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">0</text></g>
+<line x1="136.0" y1="220" x2="136.0" y2="231.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="231.0" x2="222.0" y2="231.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="231.0" x2="222.0" y2="242" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="231.0" x2="222.0" y2="242" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="231.0" x2="222.0" y2="242" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M186.0,282 L250.0,282 L258.0,290 L258.0,320 L186.0,320 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,282 L250.0,290 L258.0,290 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="305.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zarray</text></g>
+<g><path d="M186.0,326 L250.0,326 L258.0,334 L258.0,364 L186.0,364 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,326 L250.0,334 L258.0,334 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="349.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zattrs</text></g>
+<g><path d="M186.0,370 L250.0,370 L258.0,378 L258.0,408 L186.0,408 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,370 L250.0,378 L258.0,378 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="393.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">0.0.0</text></g>
+<g><path d="M186.0,414 L250.0,414 L258.0,422 L258.0,452 L186.0,452 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,414 L250.0,422 L258.0,422 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="437.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">0.0.1</text></g>
+<text x="222.0" y="462" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#5F6368" text-anchor="middle" font-weight="bold">...</text>
+<line x1="136.0" y1="260" x2="136.0" y2="271.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="271.0" x2="222.0" y2="271.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="271.0" x2="222.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="271.0" x2="222.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="271.0" x2="222.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="271.0" x2="222.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M186.0,322 L250.0,322 L258.0,330 L258.0,360 L186.0,360 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,322 L250.0,330 L258.0,330 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="345.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zarray</text></g>
+<g><path d="M186.0,366 L250.0,366 L258.0,374 L258.0,404 L186.0,404 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,366 L250.0,374 L258.0,374 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="389.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">.zattrs</text></g>
+<g><path d="M186.0,410 L250.0,410 L258.0,418 L258.0,448 L186.0,448 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,410 L250.0,418 L258.0,418 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="433.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">0.0.0</text></g>
+<g><path d="M186.0,454 L250.0,454 L258.0,462 L258.0,492 L186.0,492 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M250.0,454 L250.0,462 L258.0,462 Z" fill="#5F6368" opacity="0.2"/><text x="222.0" y="477.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">0.0.1</text></g>
+<text x="222.0" y="502" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#5F6368" text-anchor="middle" font-weight="bold">...</text>
+<line x1="136.0" y1="300" x2="136.0" y2="311.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="311.0" x2="222.0" y2="311.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="311.0" x2="222.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="311.0" x2="222.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="311.0" x2="222.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<line x1="222.0" y1="311.0" x2="222.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M320.0,57 L320.0,84 L400.0,84 L400.0,57 L352.0,57 L348.0,50 L320.0,50 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="360.0" y="74.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">Root</text></g>
+<g><path d="M252.0,106 L316.0,106 L324.0,114 L324.0,144 L252.0,144 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M316.0,106 L316.0,114 L324.0,114 Z" fill="#5F6368" opacity="0.2"/><text x="288.0" y="129.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M336.0,113 L336.0,140 L416.0,140 L416.0,113 L368.0,113 L364.0,106 L336.0,106 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="376.0" y="130.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">lat</text></g>
+<g><path d="M336.0,153 L336.0,180 L416.0,180 L416.0,153 L368.0,153 L364.0,146 L336.0,146 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="376.0" y="170.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">lon</text></g>
+<g><path d="M336.0,193 L336.0,220 L416.0,220 L416.0,193 L368.0,193 L364.0,186 L336.0,186 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="376.0" y="210.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">time</text></g>
+<g><path d="M336.0,233 L336.0,260 L416.0,260 L416.0,233 L368.0,233 L364.0,226 L336.0,226 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="376.0" y="250.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">temperature</text></g>
+<g><path d="M336.0,273 L336.0,300 L416.0,300 L416.0,273 L368.0,273 L364.0,266 L336.0,266 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="376.0" y="290.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">precipitation</text></g>
+<line x1="360.0" y1="84" x2="360.0" y2="95.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="288.0" y1="95.0" x2="376.0" y2="95.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="288.0" y1="95.0" x2="288.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="376.0" y1="95.0" x2="376.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="376.0" y1="95.0" x2="376.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="376.0" y1="95.0" x2="376.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="376.0" y1="95.0" x2="376.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="376.0" y1="95.0" x2="376.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M426.0,162 L490.0,162 L498.0,170 L498.0,200 L426.0,200 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,162 L490.0,170 L498.0,170 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="185.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M426.0,206 L490.0,206 L498.0,214 L498.0,244 L426.0,244 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,206 L490.0,214 L498.0,214 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="229.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0</text></g>
+<line x1="376.0" y1="140" x2="376.0" y2="151.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="151.0" x2="462.0" y2="151.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="151.0" x2="462.0" y2="162" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="151.0" x2="462.0" y2="162" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M426.0,202 L490.0,202 L498.0,210 L498.0,240 L426.0,240 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,202 L490.0,210 L498.0,210 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="225.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M426.0,246 L490.0,246 L498.0,254 L498.0,284 L426.0,284 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,246 L490.0,254 L498.0,254 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="269.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0</text></g>
+<line x1="376.0" y1="180" x2="376.0" y2="191.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="191.0" x2="462.0" y2="191.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="191.0" x2="462.0" y2="202" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="191.0" x2="462.0" y2="202" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M426.0,242 L490.0,242 L498.0,250 L498.0,280 L426.0,280 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,242 L490.0,250 L498.0,250 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="265.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M426.0,286 L490.0,286 L498.0,294 L498.0,324 L426.0,324 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,286 L490.0,294 L498.0,294 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="309.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0</text></g>
+<line x1="376.0" y1="220" x2="376.0" y2="231.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="231.0" x2="462.0" y2="231.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="231.0" x2="462.0" y2="242" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="231.0" x2="462.0" y2="242" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M426.0,282 L490.0,282 L498.0,290 L498.0,320 L426.0,320 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,282 L490.0,290 L498.0,290 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="305.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M426.0,326 L490.0,326 L498.0,334 L498.0,364 L426.0,364 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,326 L490.0,334 L498.0,334 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="349.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0/0/0</text></g>
+<g><path d="M426.0,370 L490.0,370 L498.0,378 L498.0,408 L426.0,408 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,370 L490.0,378 L498.0,378 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="393.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0/0/1</text></g>
+<text x="462.0" y="418" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#5F6368" text-anchor="middle" font-weight="bold">...</text>
+<line x1="376.0" y1="260" x2="376.0" y2="271.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="271.0" x2="462.0" y2="271.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="271.0" x2="462.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="271.0" x2="462.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="271.0" x2="462.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M426.0,322 L490.0,322 L498.0,330 L498.0,360 L426.0,360 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,322 L490.0,330 L498.0,330 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="345.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M426.0,366 L490.0,366 L498.0,374 L498.0,404 L426.0,404 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,366 L490.0,374 L498.0,374 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="389.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0/0/0</text></g>
+<g><path d="M426.0,410 L490.0,410 L498.0,418 L498.0,448 L426.0,448 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M490.0,410 L490.0,418 L498.0,418 Z" fill="#5F6368" opacity="0.2"/><text x="462.0" y="433.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0/0/1</text></g>
+<text x="462.0" y="458" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#5F6368" text-anchor="middle" font-weight="bold">...</text>
+<line x1="376.0" y1="300" x2="376.0" y2="311.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="311.0" x2="462.0" y2="311.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="311.0" x2="462.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="311.0" x2="462.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<line x1="462.0" y1="311.0" x2="462.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M560.0,57 L560.0,84 L640.0,84 L640.0,57 L592.0,57 L588.0,50 L560.0,50 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="600.0" y="74.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">Root</text></g>
+<g><path d="M492.0,106 L556.0,106 L564.0,114 L564.0,144 L492.0,144 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M556.0,106 L556.0,114 L564.0,114 Z" fill="#5F6368" opacity="0.2"/><text x="528.0" y="129.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M576.0,113 L576.0,140 L656.0,140 L656.0,113 L608.0,113 L604.0,106 L576.0,106 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="616.0" y="130.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">lat</text></g>
+<g><path d="M576.0,153 L576.0,180 L656.0,180 L656.0,153 L608.0,153 L604.0,146 L576.0,146 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="616.0" y="170.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">lon</text></g>
+<g><path d="M576.0,193 L576.0,220 L656.0,220 L656.0,193 L608.0,193 L604.0,186 L576.0,186 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="616.0" y="210.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">time</text></g>
+<g><path d="M576.0,233 L576.0,260 L656.0,260 L656.0,233 L608.0,233 L604.0,226 L576.0,226 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="616.0" y="250.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">temperature</text></g>
+<g><path d="M576.0,273 L576.0,300 L656.0,300 L656.0,273 L608.0,273 L604.0,266 L576.0,266 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="616.0" y="290.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle">precipitation</text></g>
+<line x1="600.0" y1="84" x2="600.0" y2="95.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="528.0" y1="95.0" x2="616.0" y2="95.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="528.0" y1="95.0" x2="528.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="616.0" y1="95.0" x2="616.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="616.0" y1="95.0" x2="616.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="616.0" y1="95.0" x2="616.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="616.0" y1="95.0" x2="616.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<line x1="616.0" y1="95.0" x2="616.0" y2="106" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M666.0,162 L730.0,162 L738.0,170 L738.0,200 L666.0,200 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,162 L730.0,170 L738.0,170 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="185.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M666.0,206 L730.0,206 L738.0,214 L738.0,244 L666.0,244 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,206 L730.0,214 L738.0,214 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="229.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0</text></g>
+<line x1="616.0" y1="140" x2="616.0" y2="151.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="151.0" x2="702.0" y2="151.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="151.0" x2="702.0" y2="162" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="151.0" x2="702.0" y2="162" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M666.0,202 L730.0,202 L738.0,210 L738.0,240 L666.0,240 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,202 L730.0,210 L738.0,210 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="225.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M666.0,246 L730.0,246 L738.0,254 L738.0,284 L666.0,284 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,246 L730.0,254 L738.0,254 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="269.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0</text></g>
+<line x1="616.0" y1="180" x2="616.0" y2="191.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="191.0" x2="702.0" y2="191.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="191.0" x2="702.0" y2="202" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="191.0" x2="702.0" y2="202" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M666.0,242 L730.0,242 L738.0,250 L738.0,280 L666.0,280 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,242 L730.0,250 L738.0,250 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="265.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M666.0,286 L730.0,286 L738.0,294 L738.0,324 L666.0,324 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,286 L730.0,294 L738.0,294 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="309.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">c/0</text></g>
+<line x1="616.0" y1="220" x2="616.0" y2="231.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="231.0" x2="702.0" y2="231.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="231.0" x2="702.0" y2="242" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="231.0" x2="702.0" y2="242" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M666.0,282 L730.0,282 L738.0,290 L738.0,320 L666.0,320 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,282 L730.0,290 L738.0,290 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="305.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M666.0,326 L730.0,326 L738.0,334 L738.0,364 L666.0,364 Z" fill="#0D652D" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,326 L730.0,334 L738.0,334 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="349.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#FFFFFF" text-anchor="middle">c/0/0/0</text></g>
+<text x="702.0" y="376" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle" font-style="italic">(shard)</text>
+<line x1="616.0" y1="260" x2="616.0" y2="271.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="271.0" x2="702.0" y2="271.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="271.0" x2="702.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="271.0" x2="702.0" y2="282" stroke="#5F6368" stroke-width="1"/>
+<g><path d="M666.0,322 L730.0,322 L738.0,330 L738.0,360 L666.0,360 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,322 L730.0,330 L738.0,330 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="345.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle">zarr.json</text></g>
+<g><path d="M666.0,366 L730.0,366 L738.0,374 L738.0,404 L666.0,404 Z" fill="#0D652D" stroke="#5F6368" stroke-width="0.6"/><path d="M730.0,366 L730.0,374 L738.0,374 Z" fill="#5F6368" opacity="0.2"/><text x="702.0" y="389.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#FFFFFF" text-anchor="middle">c/0/0/0</text></g>
+<text x="702.0" y="416" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle" font-style="italic">(shard)</text>
+<line x1="616.0" y1="300" x2="616.0" y2="311.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="311.0" x2="702.0" y2="311.0" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="311.0" x2="702.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<line x1="702.0" y1="311.0" x2="702.0" y2="322" stroke="#5F6368" stroke-width="1"/>
+<line x1="240.0" y1="10" x2="240.0" y2="510" stroke="#5F6368" stroke-width="0.5" stroke-dasharray="4,3" opacity="0.3"/>
+<line x1="480.0" y1="10" x2="480.0" y2="510" stroke="#5F6368" stroke-width="0.5" stroke-dasharray="4,3" opacity="0.3"/>
+<g><path d="M30.0,537 L30.0,556 L80.0,556 L80.0,537 L51.5,537 L47.5,530 L30.0,530 Z" fill="#4285F4" stroke="#4285F4" stroke-width="1" rx="2"/><text x="55.0" y="550.5" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#FFFFFF" text-anchor="middle"></text></g>
+<text x="88.0" y="547" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368">Group</text>
+<g><path d="M170.0,530 L212.0,530 L220.0,538 L220.0,556 L170.0,556 Z" fill="#FBBC04" stroke="#5F6368" stroke-width="0.6"/><path d="M212.0,530 L212.0,538 L220.0,538 Z" fill="#5F6368" opacity="0.2"/><text x="195.0" y="547.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle"></text></g>
+<text x="228.0" y="547" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368">JSON metadata</text>
+<g><path d="M310.0,530 L352.0,530 L360.0,538 L360.0,556 L310.0,556 Z" fill="#34A853" stroke="#5F6368" stroke-width="0.6"/><path d="M352.0,530 L352.0,538 L360.0,538 Z" fill="#5F6368" opacity="0.2"/><text x="335.0" y="547.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368" text-anchor="middle"></text></g>
+<text x="368.0" y="547" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368">Chunk</text>
+<g><path d="M450.0,530 L492.0,530 L500.0,538 L500.0,556 L450.0,556 Z" fill="#0D652D" stroke="#5F6368" stroke-width="0.6"/><path d="M492.0,530 L492.0,538 L500.0,538 Z" fill="#5F6368" opacity="0.2"/><text x="475.0" y="547.0" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#FFFFFF" text-anchor="middle"></text></g>
+<text x="508.0" y="547" font-family="Helvetica, Arial, sans-serif" font-size="9.5" fill="#5F6368">Shard</text>
+</svg>
